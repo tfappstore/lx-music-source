@@ -3,13 +3,29 @@
 
 ## 在线导入 - 加速链接
 
-### ChangQing
-```
-https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/changqing/latest.js
-```
 ### Huibq
 ```
 https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/huibq/latest.js
+```
+### 长青SVIP
+```
+https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/changqing/latest.js
+```
+### 念心
+```
+https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/nianxin/latest.js
+```
+### 全豆要
+```
+https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/quandouyao/latest.js
+```
+### 忆音
+```
+https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/yiyin/latest.js
+```
+### 音乐下载器
+```
+https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/xiazaiqi/latest.js
 ```
 ### JuheApi
 ```
@@ -39,13 +55,29 @@ https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/gr
 
 ## 在线导入 - 原始链接
 
-### ChangQing
-```
-https://raw.githubusercontent.com/tfappstore/lx-music-source/main/changqing/latest.js
-```
 ### Huibq
 ```
 https://raw.githubusercontent.com/tfappstore/lx-music-source/main/huibq/latest.js
+```
+### 长青SVIP
+```
+https://raw.githubusercontent.com/tfappstore/lx-music-source/main/changqing/latest.js
+```
+### 念心
+```
+https://raw.githubusercontent.com/tfappstore/lx-music-source/main/nianxin/latest.js
+```
+### 全豆要
+```
+https://raw.githubusercontent.com/tfappstore/lx-music-source/main/quandouyao/latest.js
+```
+### 忆音
+```
+https://raw.githubusercontent.com/tfappstore/lx-music-source/main/yiyin/latest.js
+```
+### 音乐下载器
+```
+https://raw.githubusercontent.com/tfappstore/lx-music-source/main/xiazaiqi/latest.js
 ```
 ### JuheApi
 ```
