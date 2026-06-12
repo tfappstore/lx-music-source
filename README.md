@@ -1,69 +1,76 @@
 # lx-music-source
 洛雪音乐源，内容源于网络
 
-## 在线导入 - 原始链接
-
-### SixYin
-```
-https://raw.githubusercontent.com/pdone/lx-music-source/main/sixyin/latest.js
-```
-### Huibq
-```
-https://raw.githubusercontent.com/pdone/lx-music-source/main/huibq/latest.js
-```
-### Flower
-```
-https://raw.githubusercontent.com/pdone/lx-music-source/main/flower/latest.js
-```
-### LX
-```
-https://raw.githubusercontent.com/pdone/lx-music-source/main/lx/latest.js
-```
-### ikun
-```
-https://raw.githubusercontent.com/pdone/lx-music-source/main/ikun/latest.js
-```
-### Grass
-```
-https://raw.githubusercontent.com/pdone/lx-music-source/main/grass/latest.js
-```
-
-### JuheApi
-```
-https://raw.githubusercontent.com/pdone/lx-music-source/main/juhe/latest.js
-```
-
 ## 在线导入 - 加速链接
 
-### SixYin
+### ChangQing
 ```
-https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/sixyin/latest.js
+https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/changqing/latest.js
 ```
 ### Huibq
 ```
-https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/huibq/latest.js
+https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/huibq/latest.js
 ```
-### Flower
+### JuheApi
 ```
-https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/flower/latest.js
+https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/juhe/latest.js
 ```
 ### LX
 ```
-https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/lx/latest.js
+https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/lx/latest.js
+```
+<!-- ### SixYin
+```
+https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/sixyin/latest.js
+```
+### Flower
+```
+https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/flower/latest.js
 ```
 ### ikun
 ```
-https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/ikun/latest.js
+https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/ikun/latest.js
 ```
 ### Grass
 ```
-https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/grass/latest.js
-```
+https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/grass/latest.js
+``` -->
 
+
+## 在线导入 - 原始链接
+
+### ChangQing
+```
+https://raw.githubusercontent.com/tfappstore/lx-music-source/main/changqing/latest.js
+```
+### Huibq
+```
+https://raw.githubusercontent.com/tfappstore/lx-music-source/main/huibq/latest.js
+```
 ### JuheApi
 ```
-https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/juhe/latest.js
+https://raw.githubusercontent.com/tfappstore/lx-music-source/main/juhe/latest.js
 ```
+### LX
+```
+https://raw.githubusercontent.com/tfappstore/lx-music-source/main/lx/latest.js
+```
+<!-- ### SixYin
+```
+https://raw.githubusercontent.com/tfappstore/lx-music-source/main/sixyin/latest.js
+```
+### Flower
+```
+https://raw.githubusercontent.com/tfappstore/lx-music-source/main/flower/latest.js
+```
+### ikun
+```
+https://raw.githubusercontent.com/tfappstore/lx-music-source/main/ikun/latest.js
+```
+### Grass
+```
+https://raw.githubusercontent.com/tfappstore/lx-music-source/main/grass/latest.js
+``` -->
 
 ### 其他加速站点
 
@@ -89,9 +96,6 @@ https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/juhe/la
 - [lx-music-sync-server](https://github.com/lyswhut/lx-music-sync-server)
 - [any-listen](https://github.com/any-listen/any-listen)
 
-## 爱发电❤
-
-https://afdian.com/a/pdone
 
 ## Stargazers Over Time
-[![Stargazers over time](https://starchart.cc/pdone/lx-music-source.svg?variant=adaptive)](https://starchart.cc/pdone/lx-music-source)
+[![Stargazers over time](https://starchart.cc/tfappstore/lx-music-source.svg?variant=adaptive)](https://starchart.cc/tfappstore/lx-music-source)
