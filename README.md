@@ -127,7 +127,3 @@ https://raw.githubusercontent.com/tfappstore/lx-music-source/main/grass/latest.j
 - [lx-music-mobile](https://github.com/lyswhut/lx-music-mobile)
 - [lx-music-sync-server](https://github.com/lyswhut/lx-music-sync-server)
 - [any-listen](https://github.com/any-listen/any-listen)
-
-
-## Stargazers Over Time
-[![Stargazers over time](https://starchart.cc/tfappstore/lx-music-source.svg?variant=adaptive)](https://starchart.cc/tfappstore/lx-music-source)
