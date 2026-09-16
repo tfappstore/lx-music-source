@@ -1,12 +1,474 @@
 /*!
- * @name 聚合音源(tfapps.store)
+ * @name 星海音乐源
  * @description GDAPI | 聚合 | ChKSz API | 全平台支持24FLAC，网易、酷狗、QQ最高支持母带
- * @version v1.0.0
+ * @version v3.2.13
  * @Update  优化wy，可以不使用ChKSz API获取母带；出现调试/开发者也可以通过更新关闭；注意ChKSz API，代理解密地址自行填写
  * @author 万去了了
- * @homepage https://tfapps.store/
+ * @homepage https://zrcdy.dpdns.org/
  * @lastUpdate 2026-08-18
  * @md5 
  */
 
-const _0x1e3bce=_0x3da0;(function(_0x9ac2cf,_0x27713a){const _0x3d64cf=_0x3da0,_0xbecd58=_0x9ac2cf();while(!![]){try{const _0x1b1f2f=parseInt(_0x3d64cf(0x247))/0x1*(-parseInt(_0x3d64cf(0x1ee))/0x2)+-parseInt(_0x3d64cf(0x1ea))/0x3+parseInt(_0x3d64cf(0x23b))/0x4*(parseInt(_0x3d64cf(0x1fe))/0x5)+-parseInt(_0x3d64cf(0x264))/0x6*(-parseInt(_0x3d64cf(0x1f9))/0x7)+parseInt(_0x3d64cf(0x258))/0x8*(-parseInt(_0x3d64cf(0x21a))/0x9)+parseInt(_0x3d64cf(0x20a))/0xa*(parseInt(_0x3d64cf(0x24c))/0xb)+parseInt(_0x3d64cf(0x22d))/0xc;if(_0x1b1f2f===_0x27713a)break;else _0xbecd58['push'](_0xbecd58['shift']());}catch(_0x3e796b){_0xbecd58['push'](_0xbecd58['shift']());}}}(_0x2864,0x5505f));function _0x3da0(_0x2035bd,_0x183ea5){const _0x53cd1e=_0x2864();return _0x3da0=function(_0x162268,_0x1a371b){_0x162268=_0x162268-0x1d5;let _0x3cbc0a=_0x53cd1e[_0x162268];return _0x3cbc0a;},_0x3da0(_0x2035bd,_0x183ea5);}const _0x27f4ee=(function(){let _0x447bd0=!![];return function(_0xc5bbc,_0x7c4a59){const _0x386d00=_0x447bd0?function(){const _0x2de6e0=_0x3da0;if(_0x7c4a59){const _0x4c2d71=_0x7c4a59[_0x2de6e0(0x22e)](_0xc5bbc,arguments);return _0x7c4a59=null,_0x4c2d71;}}:function(){};return _0x447bd0=![],_0x386d00;};}()),_0x4b0c1c=_0x27f4ee(this,function(){const _0xef9525=_0x3da0;return _0x4b0c1c['toString']()[_0xef9525(0x201)]('(((.+)+)+)'+'+$')['toString']()['constructo'+'r'](_0x4b0c1c)['search']('(((.+)+)+)'+'+$');});_0x4b0c1c();const _0x2f7dfc=(function(){let _0xff1b10=!![];return function(_0x4c5eff,_0x41a1de){const _0x360e45=_0xff1b10?function(){if(_0x41a1de){const _0x51289c=_0x41a1de['apply'](_0x4c5eff,arguments);return _0x41a1de=null,_0x51289c;}}:function(){};return _0xff1b10=![],_0x360e45;};}());(function(){_0x2f7dfc(this,function(){const _0x5ad6b5=_0x3da0,_0x49e9aa=new RegExp('function\x20*'+'\x5c(\x20*\x5c)'),_0x350c0b=new RegExp('\x5c+\x5c+\x20*(?:['+'a-zA-Z_$]['+'0-9a-zA-Z_'+'$]*)','i'),_0x2525ad=_0x121205(_0x5ad6b5(0x1e3));!_0x49e9aa['test'](_0x2525ad+'chain')||!_0x350c0b['test'](_0x2525ad+'input')?_0x2525ad('0'):_0x121205();})();}());const _0x1a371b=(function(){let _0x46cd50=!![];return function(_0x3cc735,_0x2329b0){const _0x1a0d10=_0x46cd50?function(){if(_0x2329b0){const _0x14aafb=_0x2329b0['apply'](_0x3cc735,arguments);return _0x2329b0=null,_0x14aafb;}}:function(){};return _0x46cd50=![],_0x1a0d10;};}()),_0x162268=_0x1a371b(this,function(){const _0xfc9abb=_0x3da0,_0x16bf73=function(){const _0x3c880d=_0x3da0;let _0x56757d;try{_0x56757d=Function(_0x3c880d(0x1fc)+_0x3c880d(0x1e2)+(_0x3c880d(0x228)+'ctor(\x22retu'+'rn\x20this\x22)('+'\x20)')+');')();}catch(_0x5c97df){_0x56757d=window;}return _0x56757d;},_0x2bbecc=_0x16bf73(),_0x4c0ef5=_0x2bbecc['console']=_0x2bbecc[_0xfc9abb(0x25a)]||{},_0x1503fb=['log',_0xfc9abb(0x227),'info','error','exception',_0xfc9abb(0x21d),_0xfc9abb(0x204)];for(let _0x26b12a=0x0;_0x26b12a<_0x1503fb['length'];_0x26b12a++){const _0x33c3a7=_0x1a371b['constructo'+'r']['prototype'][_0xfc9abb(0x244)](_0x1a371b),_0x93408e=_0x1503fb[_0x26b12a],_0x4ebdb4=_0x4c0ef5[_0x93408e]||_0x33c3a7;_0x33c3a7[_0xfc9abb(0x215)]=_0x1a371b['bind'](_0x1a371b),_0x33c3a7['toString']=_0x4ebdb4['toString']['bind'](_0x4ebdb4),_0x4c0ef5[_0x93408e]=_0x33c3a7;}});_0x162268();const {EVENT_NAMES,request,on,send,env}=globalThis['lx'],KW_DECRYPT_PROXY={'url':'','allowEncryptedLossless':![],'urlParamName':'url','ekeyParamName':'ekey'},CHKSZ_CONFIG={'apikey':'','enableNetease':!![],'enableQQ':!![]},URL_CONFIG={'domains':{'primary':'yy.zddyr.t'+'op','fallback':_0x1e3bce(0x224)+'s.org','gdStudio':_0x1e3bce(0x1db)+_0x1e3bce(0x255)+'yz','chkszNew':'api.chksz.'+'com'},'paths':{'backend':'/lx/api/','version':'/lx/versio'+_0x1e3bce(0x1e9),'update':'/lx/vers.p'+'hp','ip':_0x1e3bce(0x1da),'gdApi':'/api.php','chkszNetease':_0x1e3bce(0x253)+_0x1e3bce(0x1df),'chkszQQ':_0x1e3bce(0x25f)+_0x1e3bce(0x1d6)},'gdParams':_0x1e3bce(0x259)+'e3=true&lo'+'ader_name='+_0x1e3bce(0x1e5)+_0x1e3bce(0x226)+'=1&sec_lin'+'k_scene=im'+_0x1e3bce(0x250)+'ht'},buildUrl=(_0x43a9a0,_0x288e0d,_0x3f5fae='')=>{const _0x465bc0=_0x1e3bce,_0x324e79=URL_CONFIG[_0x465bc0(0x20d)][_0x43a9a0],_0x124500=URL_CONFIG['paths'][_0x288e0d];if(!_0x324e79||!_0x124500)throw new Error('URL配置错误:\x20'+_0x43a9a0+'\x20/\x20'+_0x288e0d);let _0x1bd762='https://'+_0x324e79+_0x124500;return _0x3f5fae&&(_0x3f5fae['startsWith']('&')&&!_0x124500['includes']('?')?_0x1bd762+='?'+_0x3f5fae[_0x465bc0(0x24f)](0x1):_0x1bd762+=_0x3f5fae),_0x1bd762;},SCRIPT_VERSION='v3.2.13',SCRIPT_NAME=_0x1e3bce(0x1de)+_0x1e3bce(0x22a),SOURCE_MAP={'tx':'qq','mg':_0x1e3bce(0x1ff),'kw':'kw','kg':'kg'},PLATFORM_NAMES={'wy':_0x1e3bce(0x262),'tx':'QQ音乐','kw':'酷我音乐','kg':_0x1e3bce(0x243),'mg':'咪咕音乐'},MUSIC_QUALITIES={'wy':[_0x1e3bce(0x254),'320k',_0x1e3bce(0x208),'hires','atmos',_0x1e3bce(0x203)],'tx':[_0x1e3bce(0x254),_0x1e3bce(0x225),_0x1e3bce(0x234),'flac','hires',_0x1e3bce(0x257),_0x1e3bce(0x241),_0x1e3bce(0x203)],'kw':['128k',_0x1e3bce(0x234),_0x1e3bce(0x208),_0x1e3bce(0x21c),_0x1e3bce(0x257),'master'],'kg':['128k',_0x1e3bce(0x234),_0x1e3bce(0x208),'hires','atmos','master'],'mg':['128k','320k','flac']},CHKSZ_NETEASE_LEVEL_MAP={'128k':'standard','320k':_0x1e3bce(0x1f2),'flac':'lossless','hires':'hires','atmos':'jymaster','master':'jymaster'},CHKSZ_QQ_SIZE_MAP={'128k':_0x1e3bce(0x254),'192k':_0x1e3bce(0x234),'320k':'320k','flac':_0x1e3bce(0x208),'hires':'hires','atmos':'master','atmos_plus':'master','master':_0x1e3bce(0x203)},GD_BR_MAP={'128k':'128','320k':'320','flac':_0x1e3bce(0x246),'hires':_0x1e3bce(0x1dd)},GD_SUPPORTED_QUALITIES=new Set(['128k','320k',_0x1e3bce(0x208),_0x1e3bce(0x21c)]),TOKEN_TTL=0x5*0x3c*0x3e8;let userIp=null,userToken='',tokenTimestamp=0x0,clientHeader='',deviceId='',availablePlatforms=[],backendAggBlocked=![];const extraCache=new Map();function isBuffer(_0x219d17){const _0x4dd1e7=_0x1e3bce;return _0x219d17&&typeof _0x219d17==='object'&&(typeof Buffer!==_0x4dd1e7(0x200)&&Buffer['isBuffer'](_0x219d17)||typeof _0x219d17['constructo'+'r']===_0x4dd1e7(0x25e)&&_0x219d17[_0x4dd1e7(0x20c)+'r'][_0x4dd1e7(0x1d8)]===_0x4dd1e7(0x209));}function safeParseBody(_0x35bc4b){const _0x39522a=_0x1e3bce;if(typeof _0x35bc4b===_0x39522a(0x223)){const _0x51b9a3=_0x35bc4b[_0x39522a(0x266)]();if(/^[{["]/['test'](_0x51b9a3))try{return JSON['parse'](_0x51b9a3);}catch(_0x3228a1){}return _0x35bc4b;}if(typeof _0x35bc4b==='object'&&_0x35bc4b!==null){try{if(typeof _0x35bc4b[_0x39522a(0x23d)]==='function'&&_0x35bc4b[_0x39522a(0x23d)]()!=='[object\x20Ob'+'ject]')_0x35bc4b=_0x35bc4b['toString'](_0x39522a(0x1e7));}catch(_0x250a9e){}if(typeof _0x35bc4b===_0x39522a(0x260)&&!isBuffer(_0x35bc4b))return _0x35bc4b;}try{if(isBuffer(_0x35bc4b)){if(globalThis['lx']?.['utils']?.['buffer']?.[_0x39522a(0x1d9)+'g'])_0x35bc4b=globalThis['lx']['utils']['buffer']['bufToStrin'+'g'](_0x35bc4b,'utf-8');else{if(typeof Buffer!=='undefined')_0x35bc4b=Buffer[_0x39522a(0x220)](_0x35bc4b)[_0x39522a(0x23d)]('utf-8');else _0x35bc4b=String(_0x35bc4b);}}}catch(_0x5d2a7a){}if(typeof _0x35bc4b==='string'){const _0x5d3d02=_0x35bc4b[_0x39522a(0x266)]();if(/^[{["]/[_0x39522a(0x238)](_0x5d3d02))try{return JSON['parse'](_0x5d3d02);}catch(_0x13f4d1){}}return _0x35bc4b;}function safeBase64Encode(_0xbe8def){const _0x84f348=_0x1e3bce;try{if(globalThis['lx']?.[_0x84f348(0x25b)]?.['buffer']?.[_0x84f348(0x220)]){const _0x53b8e3=globalThis['lx'][_0x84f348(0x25b)]['buffer'][_0x84f348(0x220)](_0xbe8def,_0x84f348(0x1e7));return globalThis['lx'][_0x84f348(0x25b)]['buffer']['bufToStrin'+'g'](_0x53b8e3,'base64');}if(typeof Buffer!==_0x84f348(0x200))return Buffer[_0x84f348(0x220)](_0xbe8def,'utf-8')[_0x84f348(0x23d)](_0x84f348(0x1ef));return btoa(unescape(encodeURIComponent(_0xbe8def)));}catch(_0x3b82cc){return _0xbe8def;}}function simpleGetQueryParam(_0x1778a5,_0x4497af){const _0x5eb698=_0x1e3bce;if(typeof _0x1778a5!=='string'||!_0x1778a5)return null;const _0x69d8d6=_0x1778a5[_0x5eb698(0x20f)]('?');if(_0x69d8d6<0x0)return null;let _0xab2f23=_0x1778a5['substring'](_0x69d8d6+0x1);const _0x1989d0=_0xab2f23['indexOf']('#');if(_0x1989d0>=0x0)_0xab2f23=_0xab2f23['substring'](0x0,_0x1989d0);const _0x9efdf1=_0xab2f23[_0x5eb698(0x218)]('&');for(const _0x45faba of _0x9efdf1){const _0x37412b=_0x45faba['indexOf']('=');if(_0x37412b<0x0)continue;if(_0x45faba['substring'](0x0,_0x37412b)===_0x4497af)try{return decodeURIComponent(_0x45faba['substring'](_0x37412b+0x1));}catch(_0x4eec8f){return _0x45faba['substring'](_0x37412b+0x1);}}return null;}function generateDeviceId(){const _0x45163e=_0x1e3bce;return'lx-online-'+Math['random']()['toString'](0x24)[_0x45163e(0x24f)](0x2,0x8)+Date[_0x45163e(0x214)]()[_0x45163e(0x23d)](0x24)['slice'](-0x4);}function buildClientHeader(){const _0x29488d=_0x1e3bce;let _0x4d9264='unknown';try{const _0x442317=(env?.['platform']||'')['toLowerCas'+'e']();if(_0x442317[_0x29488d(0x229)]('android'))_0x4d9264='Android';else{if(_0x442317['includes'](_0x29488d(0x22c)))_0x4d9264='iOS';else{if(_0x442317[_0x29488d(0x229)](_0x29488d(0x242)))_0x4d9264=_0x29488d(0x219);else{if(_0x442317['includes']('mac'))_0x4d9264=_0x29488d(0x265);else{if(_0x442317['includes']('linux'))_0x4d9264=_0x29488d(0x1f3);}}}}}catch(_0x398b9d){}return SCRIPT_NAME+'/'+SCRIPT_VERSION+'\x20('+_0x4d9264+')';}function generateToken(_0x265359){const _0x3445a4=_0x1e3bce;if(!deviceId)deviceId=generateDeviceId();const _0x2e4c81={'device_id':deviceId,'ip':_0x265359||'0.0.0.0','timestamp':Math[_0x3445a4(0x1e1)](Date['now']()/0x3e8),'random':Math[_0x3445a4(0x213)]()['toString'](0x24)[_0x3445a4(0x24f)](0x2,0xc)};return tokenTimestamp=Date['now'](),safeBase64Encode(JSON[_0x3445a4(0x212)](_0x2e4c81));}function ensureTokenFresh(){(!userToken||Date['now']()-tokenTimestamp>TOKEN_TTL)&&(userToken=generateToken(userIp));}const httpFetch=(_0x32b7ca,_0x34eda6={})=>new Promise((_0x4414fd,_0x5b1382)=>{const _0x30884d=_0x1e3bce;if(!_0x34eda6['noAuth'])ensureTokenFresh();const _0x108b57={..._0x34eda6['headers']||{}};if(!_0x34eda6[_0x30884d(0x230)]){if(userToken)_0x108b57['X-Token']=userToken;if(clientHeader)_0x108b57[_0x30884d(0x239)]=clientHeader;}if(!_0x108b57['User-Agent'])_0x108b57[_0x30884d(0x217)]='lx-music';request(_0x32b7ca,{..._0x34eda6,'headers':_0x108b57},(_0x1d3869,_0x2ac9c3)=>{const _0x58e9e4=_0x30884d;if(_0x1d3869)return _0x5b1382(_0x1d3869);_0x4414fd({'body':safeParseBody(_0x2ac9c3[_0x58e9e4(0x1d5)]),'statusCode':_0x2ac9c3['statusCode'],'headers':_0x2ac9c3['headers']||{}});});});function mapQuality(_0x3995db,_0x38ddf5){const _0x2ede33=_0x1e3bce,_0x12a3bf={'臻品母带':_0x2ede33(0x25c),'臻品音质2.0':'sky','臻品音质AI':'jyeffect','臻品音质':'jyeffect','Hires\x20无损24-Bit':_0x2ede33(0x21c),'Hi-Res':_0x2ede33(0x21c),'FLAC':'flac','320k':_0x2ede33(0x234),'192k':_0x2ede33(0x225),'128k':'128k'};if(_0x38ddf5[_0x2ede33(0x229)](_0x3995db))return _0x3995db;const _0xd23821=_0x12a3bf[_0x3995db];if(_0xd23821&&_0x38ddf5['includes'](_0xd23821))return _0xd23821;const _0x2c0d6e=[_0x2ede33(0x25c),'sky','jyeffect','hires','flac24bit','master',_0x2ede33(0x208),_0x2ede33(0x234),'192k','128k'];for(const _0x45da16 of _0x2c0d6e)if(_0x38ddf5[_0x2ede33(0x229)](_0x45da16))return _0x45da16;return _0x38ddf5[0x0]||'128k';}function _0x2864(){const _0x5688be=['action','version','stringify','random','now','__proto__','缺少\x20songId','User-Agent','split','Windows','3081438bewDww','any','hires','table','enableQQ','后端失败:\x20','from','updateAler','未返回url','string','zrcdy.dpdn','192k','d_sec_link','warn','{}.constru','includes','icSource','fallback','ios','6662244VNYYnv','apply','map','noAuth','interval','&types=url','source','320k','gdApi','gger','chkszQQ','test','X-Client','cover','11188fulYAG','code','toString','&level=','musicUrl','&br=','atmos_plus','win','酷狗音乐','bind','picUrl','740','299TwzafG','ase','ame','url','320','22MkLEoD','ekey','参数不完整','substring','&theme=lig','album','albumName','/api/163_m','128k','gdstudio.x','keys','atmos','16cYzOZn','use_xbridg','console','utils','jymaster','获取播放链接失败','function','/api/qq_mu','object','enableNete','网易云音乐','缺少QQ\x20mid','3756GRkczI','macOS','trim','type','body','sic','&br=740','name','bufToStrin','/ip.php','music-api.','chksz\x20QQ失败','999','XingHaiMus','usic','statusCode','floor','nction()\x20','init','call','forest&nee','has','utf-8','GD接口失败:\x20','nh2.php','184500XXjHRG','lyric','picture','?mid=','2566KfFAoO','base64','songmid','&type=json','exhigh','Linux','musicInfo','&source=ne','chkszNetea','tease&id=','message','4963MaUCZT','_types','后端接口状态','return\x20(fu','chksz网易失败(','5NMwoRl','migu','undefined','search','chkszNew','master','trace','albumId','chksz不支持该品','hash','flac','Buffer','2381590ByAocu','apikey','constructo','domains','lrc','indexOf'];_0x2864=function(){return _0x5688be;};return _0x2864();}function processKwEncryptedUrl(_0x5e3b1e,_0x2e0bb5){const _0x2b1bd5=_0x1e3bce;if(_0x2e0bb5!=='kw'||!KW_DECRYPT_PROXY['allowEncry'+'ptedLossle'+'ss'])return _0x5e3b1e?.['url']||'';let _0x5836f6=null;_0x5e3b1e?.['ekey']&&(_0x5836f6=typeof _0x5e3b1e[_0x2b1bd5(0x24d)]===_0x2b1bd5(0x223)?_0x5e3b1e[_0x2b1bd5(0x24d)]['trim']():String(_0x5e3b1e[_0x2b1bd5(0x24d)])['trim']());!_0x5836f6&&_0x5e3b1e?.['url']&&typeof _0x5e3b1e['url']===_0x2b1bd5(0x223)&&(_0x5836f6=simpleGetQueryParam(_0x5e3b1e['url'],'ekey'));if(!_0x5836f6||!KW_DECRYPT_PROXY[_0x2b1bd5(0x24a)])return _0x5e3b1e?.[_0x2b1bd5(0x24a)]||'';const _0x27e86a=typeof _0x5e3b1e['url']==='string'?_0x5e3b1e[_0x2b1bd5(0x24a)]:String(_0x5e3b1e[_0x2b1bd5(0x24a)]);try{return KW_DECRYPT_PROXY['url']+'?'+KW_DECRYPT_PROXY['urlParamNa'+'me']+'='+encodeURIComponent(_0x27e86a)+'&'+KW_DECRYPT_PROXY['ekeyParamN'+_0x2b1bd5(0x249)]+'='+encodeURIComponent(_0x5836f6);}catch(_0x40a555){return _0x27e86a;}}async function fetchIp(){const _0x36b2ae=_0x1e3bce;try{const _0x198b78=await httpFetch(buildUrl('primary','ip'),{'timeout':0xbb8});_0x198b78[_0x36b2ae(0x1d5)]?.['ip']&&(userIp=_0x198b78['body']['ip'],userToken=generateToken(userIp));}catch(_0x3b9480){}}async function getWyChkszUrl(_0x6e19c3,_0x57f88d){const _0x5ba8ea=_0x1e3bce,_0x117291=CHKSZ_NETEASE_LEVEL_MAP[_0x57f88d];if(!_0x117291)throw new Error('chksz不支持该品'+'质');const _0x496091='https://'+URL_CONFIG[_0x5ba8ea(0x20d)][_0x5ba8ea(0x202)]+URL_CONFIG['paths'][_0x5ba8ea(0x1f6)+'se']+'?id='+_0x6e19c3+_0x5ba8ea(0x23e)+_0x117291+'&apikey='+encodeURIComponent(CHKSZ_CONFIG['apikey']),_0x2cbd5a=await httpFetch(_0x496091,{'headers':{'User-Agent':'LX-Music-M'+'obile'},'timeout':0x1f40,'noAuth':!![]});if(_0x2cbd5a[_0x5ba8ea(0x1e0)]!==0xc8||_0x2cbd5a['body'][_0x5ba8ea(0x23c)]!==0xc8||!_0x2cbd5a[_0x5ba8ea(0x1d5)]['data']?.['url'])throw new Error(_0x5ba8ea(0x1fd)+_0x2cbd5a[_0x5ba8ea(0x1e0)]+'):\x20'+(_0x2cbd5a[_0x5ba8ea(0x1d5)]?.['msg']||_0x5ba8ea(0x222)));return{'url':_0x2cbd5a['body']['data']['url'],'lyric':null,'cover':_0x2cbd5a['body']['data'][_0x5ba8ea(0x245)]||null};}async function getTxChkszUrl(_0x56f32c,_0x24c8e0){const _0x5bd880=_0x1e3bce,_0x63451d=CHKSZ_QQ_SIZE_MAP[_0x24c8e0];if(!_0x63451d)throw new Error(_0x5bd880(0x206)+'质');const _0x58ea19=_0x56f32c['songmid']||_0x56f32c['id'];if(!_0x58ea19)throw new Error(_0x5bd880(0x263));const _0x44f4cc='https://'+URL_CONFIG['domains'][_0x5bd880(0x202)]+URL_CONFIG['paths'][_0x5bd880(0x237)]+_0x5bd880(0x1ed)+_0x58ea19+'&size='+_0x63451d+(_0x5bd880(0x1f1)+'&apikey=')+encodeURIComponent(CHKSZ_CONFIG['apikey']),_0x3164a4=await httpFetch(_0x44f4cc,{'headers':{'User-Agent':'LX-Music-M'+'obile'},'timeout':0x1f40,'noAuth':!![]});if(_0x3164a4['statusCode']!==0xc8||_0x3164a4['body']['code']!==0xc8||!_0x3164a4['body']['url'])throw new Error(_0x5bd880(0x1dc)+'('+_0x3164a4['statusCode']+'):\x20'+(_0x3164a4[_0x5bd880(0x1d5)]?.['msg']||'未返回url'));return{'url':_0x3164a4['body']['url'],'lyric':_0x3164a4[_0x5bd880(0x1d5)][_0x5bd880(0x20e)]||null,'cover':_0x3164a4['body'][_0x5bd880(0x23a)]||null};}async function getWyGDUrl(_0x570409,_0x52bc06){const _0x112cc9=_0x1e3bce,_0x5acbb5=GD_BR_MAP[_0x52bc06]||_0x112cc9(0x24b),_0x202d7f=buildUrl('gdStudio',_0x112cc9(0x235),'&'+URL_CONFIG['gdParams']+('&types=url'+'&source=ne'+_0x112cc9(0x1f7))+_0x570409+_0x112cc9(0x240)+_0x5acbb5);let _0x1f1222=await httpFetch(_0x202d7f,{'headers':{'User-Agent':'LX-Music-M'+'obile'},'timeout':0x1f40,'noAuth':!![]});if(_0x52bc06==='hires'&&(_0x1f1222['statusCode']!==0xc8||!_0x1f1222['body'][_0x112cc9(0x24a)])){const _0x3d0c58=buildUrl('gdStudio',_0x112cc9(0x235),'&'+URL_CONFIG['gdParams']+(_0x112cc9(0x232)+_0x112cc9(0x1f5)+_0x112cc9(0x1f7))+_0x570409+_0x112cc9(0x1d7));_0x1f1222=await httpFetch(_0x3d0c58,{'headers':{'User-Agent':'LX-Music-M'+'obile'},'timeout':0x1f40,'noAuth':!![]});}if(_0x1f1222[_0x112cc9(0x1e0)]!==0xc8||!_0x1f1222['body']['url'])throw new Error('GD接口状态'+_0x1f1222['statusCode']+'，未返回音频');return{'url':_0x1f1222[_0x112cc9(0x1d5)][_0x112cc9(0x24a)],'lyric':null,'cover':null};}async function getUrlFromBackend(_0x391157,_0x3eb0da,_0x33fa50){const _0x1e083a=_0x1e3bce,_0x2ea773=SOURCE_MAP[_0x391157]||_0x391157,_0x58ef10=buildUrl('primary','backend'),_0x127a84={};if(_0x2ea773==='kg'){const _0x39ccdb=_0x3eb0da[_0x1e083a(0x1fa)]||{};_0x127a84['source']='kg',_0x127a84['quality']=_0x33fa50||'',_0x127a84[_0x1e083a(0x1f0)]=_0x3eb0da['songmid']||_0x3eb0da['id']||'',_0x127a84['albumId']=_0x3eb0da[_0x1e083a(0x205)]||'',_0x127a84['mainHash']=_0x3eb0da[_0x1e083a(0x207)]||'';if(_0x39ccdb[_0x33fa50]?.[_0x1e083a(0x207)])_0x127a84['hash']=_0x39ccdb[_0x33fa50]['hash'];}else _0x127a84[_0x1e083a(0x233)]=_0x2ea773,_0x127a84['name']=_0x3eb0da['name']||'',_0x127a84['singer']=_0x3eb0da['singer']||'',_0x127a84[_0x1e083a(0x1f0)]=_0x3eb0da['songmid']||_0x3eb0da['id']||'',_0x127a84[_0x1e083a(0x231)]=_0x3eb0da['interval']||'',_0x127a84['albumName']=_0x3eb0da[_0x1e083a(0x252)]||_0x3eb0da[_0x1e083a(0x251)]||'',_0x127a84['quality']=_0x33fa50||'';const _0x57b678=Object[_0x1e083a(0x256)](_0x127a84)[_0x1e083a(0x22f)](_0x2d5c36=>encodeURIComponent(_0x2d5c36)+'='+encodeURIComponent(_0x127a84[_0x2d5c36]))['join']('&'),_0x296e49=_0x58ef10+'?'+_0x57b678,_0x4e597e=await httpFetch(_0x296e49,{'method':'GET','timeout':0x1f40});if(_0x4e597e[_0x1e083a(0x1e0)]===0x193){backendAggBlocked=!![];throw new Error('后端聚合接口返回40'+'3，已屏蔽');}if(_0x4e597e[_0x1e083a(0x1e0)]!==0xc8)throw new Error(_0x1e083a(0x1fb)+_0x4e597e['statusCode']);const _0xea30d6=_0x4e597e[_0x1e083a(0x1d5)];if(_0xea30d6[_0x1e083a(0x23c)]!==0xc8||!_0xea30d6[_0x1e083a(0x24a)])throw new Error(_0xea30d6['msg']||'后端无可用链接');const _0x358224=processKwEncryptedUrl(_0xea30d6,_0x2ea773);return{'url':_0x358224,'lyric':_0xea30d6['lrc']||null,'cover':_0xea30d6[_0x1e083a(0x1ec)]||null};}async function fetchMusicUrl(_0x10e18c,_0xf53532,_0x2e9602){const _0x40daa7=_0x1e3bce,_0x34043c=_0xf53532['hash']??_0xf53532['songmid']??_0xf53532['id'];if(!_0x34043c)throw new Error(_0x40daa7(0x216));let _0x5c94cc=mapQuality(_0x2e9602,MUSIC_QUALITIES[_0x10e18c]||[_0x40daa7(0x254),_0x40daa7(0x234),_0x40daa7(0x208)]);_0x10e18c==='kw'&&!KW_DECRYPT_PROXY['allowEncry'+'ptedLossle'+'ss']&&(_0x5c94cc=mapQuality(_0x2e9602,['128k','320k',_0x40daa7(0x208)]));let _0x2681d3={'url':'','lyric':null,'cover':null},_0x25cec9='';const _0x5a1ef5=!!(CHKSZ_CONFIG['apikey']&&CHKSZ_CONFIG[_0x40daa7(0x20b)]['trim']());if(_0x10e18c==='wy'){if(_0x5a1ef5&&CHKSZ_CONFIG[_0x40daa7(0x261)+_0x40daa7(0x248)])try{_0x2681d3=await getWyChkszUrl(_0x34043c,_0x5c94cc);}catch(_0x14a497){_0x25cec9='chksz网易失败:'+'\x20'+_0x14a497[_0x40daa7(0x1f8)];}if(!_0x2681d3[_0x40daa7(0x24a)]&&!backendAggBlocked)try{_0x2681d3=await getUrlFromBackend('wy',_0xf53532,_0x5c94cc);}catch(_0x3fc664){_0x25cec9='后端聚合失败:\x20'+_0x3fc664['message'];}if(!_0x2681d3['url']&&GD_SUPPORTED_QUALITIES[_0x40daa7(0x1e6)](_0x5c94cc))try{_0x2681d3=await getWyGDUrl(_0x34043c,_0x5c94cc);}catch(_0x320613){_0x25cec9=_0x40daa7(0x1e8)+_0x320613['message'];}}else{if(_0x10e18c==='tx'){if(_0x5a1ef5&&CHKSZ_CONFIG[_0x40daa7(0x21e)])try{_0x2681d3=await getTxChkszUrl(_0xf53532,_0x5c94cc);}catch(_0x284140){_0x25cec9=_0x40daa7(0x1dc)+':\x20'+_0x284140['message'];}if(!_0x2681d3[_0x40daa7(0x24a)])try{_0x2681d3=await getUrlFromBackend(_0x10e18c,_0xf53532,_0x5c94cc);}catch(_0x4f6144){_0x25cec9=_0x40daa7(0x21f)+_0x4f6144['message'];}}else try{_0x2681d3=await getUrlFromBackend(_0x10e18c,_0xf53532,_0x5c94cc);}catch(_0x2935bc){_0x25cec9='后端失败:\x20'+_0x2935bc['message'];}}extraCache['set'](_0x34043c,{'lyric':_0x2681d3[_0x40daa7(0x1eb)],'cover':_0x2681d3[_0x40daa7(0x23a)]});const _0x170642=typeof _0x2681d3[_0x40daa7(0x24a)]==='string'?_0x2681d3[_0x40daa7(0x24a)]['trim']():'';if(typeof _0x2681d3['url']!==_0x40daa7(0x223)||_0x170642['length']<0x1||!_0x170642['match'](/^https?:\/\//i))throw new Error(_0x25cec9||_0x40daa7(0x25d));return _0x170642;}async function checkUpdate(){const _0x2315d6=_0x1e3bce,_0x21656f=[buildUrl('primary',_0x2315d6(0x211))+'?ver='+encodeURIComponent(SCRIPT_VERSION),buildUrl(_0x2315d6(0x22b),_0x2315d6(0x211))+'?ver='+encodeURIComponent(SCRIPT_VERSION)];try{const _0x6a08d8=await Promise[_0x2315d6(0x21b)](_0x21656f[_0x2315d6(0x22f)](_0xe1f4e5=>httpFetch(_0xe1f4e5,{'timeout':0x1388})));_0x6a08d8['statusCode']===0xc8&&_0x6a08d8['body']&&_0x6a08d8[_0x2315d6(0x1d5)]['update_url']&&send(EVENT_NAMES[_0x2315d6(0x221)+'t'],{'log':_0x6a08d8[_0x2315d6(0x1d5)]['changelog']||_0x6a08d8[_0x2315d6(0x1d5)][_0x2315d6(0x1f8)]||'发现新版本\x20'+(_0x6a08d8['body'][_0x2315d6(0x211)]||''),'updateUrl':_0x6a08d8[_0x2315d6(0x1d5)]['update_url']});}catch(_0x26de33){}}on(EVENT_NAMES['request'],async({action:_0xb1d7bb,source:_0x27911a,info:_0x310481})=>{const _0x110f22=_0x1e3bce;if(!_0x27911a||!MUSIC_QUALITIES[_0x27911a])throw new Error('不支持的音乐源:\x20'+_0x27911a);if(_0xb1d7bb===_0x110f22(0x23f)){if(!_0x310481?.['musicInfo']||!_0x310481[_0x110f22(0x267)])throw new Error(_0x110f22(0x24e));return fetchMusicUrl(_0x27911a,_0x310481[_0x110f22(0x1f4)],_0x310481[_0x110f22(0x267)]);}const _0x21e0f0=_0x310481?.[_0x110f22(0x1f4)]?.['hash']??_0x310481?.['musicInfo']?.[_0x110f22(0x1f0)]??_0x310481?.['musicInfo']?.['id'],_0x16e133=extraCache['get'](_0x21e0f0);if(_0xb1d7bb==='lyric')return _0x16e133?.['lyric']?{'lyric':_0x16e133['lyric'],'tlyric':''}:null;if(_0xb1d7bb==='pic')return _0x16e133?.['cover']||null;throw new Error('不支持的操作:\x20'+_0xb1d7bb);}),((async()=>{deviceId=generateDeviceId(),clientHeader=buildClientHeader(),userToken=generateToken(null),availablePlatforms=['wy','tx','kg','kw','mg'];const _0x51cd96={};availablePlatforms['forEach'](_0x471b94=>{_0x51cd96[_0x471b94]={'name':PLATFORM_NAMES[_0x471b94],'type':'music','actions':['musicUrl','lyric','pic'],'qualitys':MUSIC_QUALITIES[_0x471b94]};}),send(EVENT_NAMES['inited'],{'openDevTools':![],'status':!![],'sources':_0x51cd96}),fetchIp(),checkUpdate();})());function _0x121205(_0x2ffaa0){function _0x4db850(_0x3bb207){const _0x57b336=_0x3da0;if(typeof _0x3bb207===_0x57b336(0x223))return function(_0x5b1f53){}[_0x57b336(0x20c)+'r']('while\x20(tru'+'e)\x20{}')['apply']('counter');else(''+_0x3bb207/_0x3bb207)['length']!==0x1||_0x3bb207%0x14===0x0?function(){return!![];}['constructo'+'r']('debu'+_0x57b336(0x236))[_0x57b336(0x1e4)](_0x57b336(0x210)):function(){return![];}['constructo'+'r']('debu'+_0x57b336(0x236))[_0x57b336(0x22e)]('stateObjec'+'t');_0x4db850(++_0x3bb207);}try{if(_0x2ffaa0)return _0x4db850;else _0x4db850(0x0);}catch(_0xd4728d){}}
+const { EVENT_NAMES, request, on, send, env } = globalThis.lx;
+
+// ==================== 用户配置区域 ====================
+// https://github.com/cdyUuu/kuwo-music-relay
+// 酷我代理解密配置（用于解密酷我加密无损格式，如 mflac/mgg）
+// 填入你自行部署的代理解密地址，留空则不启用代理解密
+const KW_DECRYPT_PROXY = {
+    url: '',                 // 在此填入代理解密地址（如 https://your-domain.com/decrypt.php），留空则不启用
+    allowEncryptedLossless: false, // 设为 true 启用代理解密
+    urlParamName: 'url',
+    ekeyParamName: 'ekey',
+};
+
+// ChKSz API 配置（网易SVIP接口 + QQ音乐接口，需要 apikey）
+// 启用且 apikey 不为空时，对应平台优先使用 chksz 接口
+const CHKSZ_CONFIG = {
+    apikey: '',              // 在此填入 chksz 的 apikey，留空则不启用 chksz 接口
+    enableNetease: true,     // 启用 chksz 网易云 SVIP 接口（支持到母带）
+    enableQQ: true,          // 启用 chksz QQ 音乐接口（支持到 master）
+};
+// ====================================================
+
+const URL_CONFIG = {
+    domains: {
+        primary: 'yy.zddyr.top',
+        fallback: 'zrcdy.dpdns.org',
+        gdStudio: 'music-api.gdstudio.xyz',
+        chkszNew: 'api.chksz.com'
+    },
+    paths: {
+        backend: '/lx/api/',
+        version: '/lx/versionh2.php',
+        update: '/lx/vers.php',
+        ip: '/ip.php',
+        gdApi: '/api.php',
+        chkszNetease: '/api/163_music',
+        chkszQQ: '/api/qq_music'
+    },
+    gdParams: 'use_xbridge3=true&loader_name=forest&need_sec_link=1&sec_link_scene=im&theme=light'
+};
+
+const buildUrl = (domainKey, pathKey, extraQuery = '') => {
+    const domain = URL_CONFIG.domains[domainKey];
+    const path = URL_CONFIG.paths[pathKey];
+    if (!domain || !path) throw new Error(`URL配置错误: ${domainKey} / ${pathKey}`);
+    let url = `https://${domain}${path}`;
+    if (extraQuery) {
+        if (extraQuery.startsWith('&') && !path.includes('?')) {
+            url += '?' + extraQuery.substring(1);
+        } else {
+            url += extraQuery;
+        }
+    }
+    return url;
+};
+
+const SCRIPT_VERSION = 'v3.2.13';
+const SCRIPT_NAME = 'XingHaiMusicSource';
+const SOURCE_MAP = { tx: 'qq', mg: 'migu', kw: 'kw', kg: 'kg' };
+const PLATFORM_NAMES = { wy: '网易云音乐', tx: 'QQ音乐', kw: '酷我音乐', kg: '酷狗音乐', mg: '咪咕音乐' };
+const MUSIC_QUALITIES = {
+    wy: ['128k','320k','flac','hires','atmos','master'],
+    tx: ['128k','192k','320k','flac','hires','atmos','atmos_plus','master'],
+    kw: ['128k','320k','flac','hires','atmos','master'],
+    kg: ['128k','320k','flac','hires','atmos','master'],
+    mg: ['128k','320k','flac']
+};
+
+// ChKSz 网易云 level 映射（需将插件音质转换为 chksz 的 level 值）
+const CHKSZ_NETEASE_LEVEL_MAP = {
+    '128k': 'standard',
+    '320k': 'exhigh',
+    'flac': 'lossless',
+    'hires': 'hires',
+    'atmos': 'jymaster',
+    'master': 'jymaster'
+};
+
+// ChKSz QQ 音质 size 映射
+const CHKSZ_QQ_SIZE_MAP = {
+    '128k': '128k', '192k': '320k', '320k': '320k',
+    'flac': 'flac', 'hires': 'hires',
+    'atmos': 'master', 'atmos_plus': 'master', 'master': 'master'
+};
+
+// GD API 音质映射（hires 用 999，失败降级 740）
+// GD 不支持 atmos/master，这些音质不会走 GD
+const GD_BR_MAP = { '128k':'128', '320k':'320', 'flac':'740', 'hires':'999' };
+
+// GD 支持的音质集合（atmos/master 不在 GD 支持范围）
+const GD_SUPPORTED_QUALITIES = new Set(['128k','320k','flac','hires']);
+
+const TOKEN_TTL = 5 * 60 * 1000;
+
+let userIp = null;
+let userToken = '';
+let tokenTimestamp = 0;
+let clientHeader = '';
+let deviceId = '';
+let availablePlatforms = [];
+let backendAggBlocked = false; // 后端聚合接口 403 屏蔽标志（403后不再请求，除非脚本重启）
+const extraCache = new Map();
+
+// -------------------- 工具函数 --------------------
+function isBuffer(obj) {
+    return obj && typeof obj === 'object' &&
+        ((typeof Buffer !== 'undefined' && Buffer.isBuffer(obj)) ||
+        (typeof obj.constructor === 'function' && obj.constructor.name === 'Buffer'));
+}
+
+function safeParseBody(body) {
+    if (typeof body === 'string') {
+        const trimmed = body.trim();
+        if (/^[{["]/.test(trimmed)) { try { return JSON.parse(trimmed); } catch (e) {} }
+        return body;
+    }
+    if (typeof body === 'object' && body !== null) {
+        try { if (typeof body.toString === 'function' && body.toString() !== '[object Object]') body = body.toString('utf-8'); } catch (e) {}
+        if (typeof body === 'object' && !isBuffer(body)) return body;
+    }
+    try {
+        if (isBuffer(body)) {
+            if (globalThis.lx?.utils?.buffer?.bufToString) body = globalThis.lx.utils.buffer.bufToString(body, 'utf-8');
+            else if (typeof Buffer !== 'undefined') body = Buffer.from(body).toString('utf-8');
+            else body = String(body);
+        }
+    } catch (e) {}
+    if (typeof body === 'string') {
+        const trimmed = body.trim();
+        if (/^[{["]/.test(trimmed)) { try { return JSON.parse(trimmed); } catch (e) {} }
+    }
+    return body;
+}
+
+function safeBase64Encode(str) {
+    try {
+        if (globalThis.lx?.utils?.buffer?.from) {
+            const buf = globalThis.lx.utils.buffer.from(str, 'utf-8');
+            return globalThis.lx.utils.buffer.bufToString(buf, 'base64');
+        }
+        if (typeof Buffer !== 'undefined') return Buffer.from(str, 'utf-8').toString('base64');
+        return btoa(unescape(encodeURIComponent(str)));
+    } catch (e) {
+        return str;
+    }
+}
+
+function simpleGetQueryParam(url, key) {
+    if (typeof url !== 'string' || !url) return null;
+    const qIdx = url.indexOf('?');
+    if (qIdx < 0) return null;
+    let query = url.substring(qIdx + 1);
+    const hashIdx = query.indexOf('#');
+    if (hashIdx >= 0) query = query.substring(0, hashIdx);
+    const pairs = query.split('&');
+    for (const p of pairs) {
+        const eq = p.indexOf('=');
+        if (eq < 0) continue;
+        if (p.substring(0, eq) === key) {
+            try { return decodeURIComponent(p.substring(eq + 1)); } catch (e) { return p.substring(eq + 1); }
+        }
+    }
+    return null;
+}
+
+function generateDeviceId() {
+    return 'lx-online-' + Math.random().toString(36).substring(2, 8) + Date.now().toString(36).slice(-4);
+}
+
+function buildClientHeader() {
+    let deviceType = 'unknown';
+    try {
+        const p = (env?.platform || '').toLowerCase();
+        if (p.includes('android')) deviceType = 'Android';
+        else if (p.includes('ios')) deviceType = 'iOS';
+        else if (p.includes('win')) deviceType = 'Windows';
+        else if (p.includes('mac')) deviceType = 'macOS';
+        else if (p.includes('linux')) deviceType = 'Linux';
+    } catch (e) {}
+    return `${SCRIPT_NAME}/${SCRIPT_VERSION} (${deviceType})`;
+}
+
+function generateToken(ip) {
+    if (!deviceId) deviceId = generateDeviceId();
+    const payload = {
+        device_id: deviceId,
+        ip: ip || '0.0.0.0',
+        timestamp: Math.floor(Date.now() / 1000),
+        random: Math.random().toString(36).substring(2, 12)
+    };
+    tokenTimestamp = Date.now();
+    return safeBase64Encode(JSON.stringify(payload));
+}
+
+function ensureTokenFresh() {
+    if (!userToken || (Date.now() - tokenTimestamp) > TOKEN_TTL) {
+        userToken = generateToken(userIp);
+    }
+}
+
+const httpFetch = (url, options = {}) => new Promise((resolve, reject) => {
+    if (!options.noAuth) ensureTokenFresh();
+    const headers = { ...(options.headers || {}) };
+    if (!options.noAuth) {
+        if (userToken) headers['X-Token'] = userToken;
+        if (clientHeader) headers['X-Client'] = clientHeader;
+    }
+    if (!headers['User-Agent']) headers['User-Agent'] = 'lx-music';
+    request(url, { ...options, headers }, (err, resp) => {
+        if (err) return reject(err);
+        resolve({ body: safeParseBody(resp.body), statusCode: resp.statusCode, headers: resp.headers || {} });
+    });
+});
+
+function mapQuality(target, avail) {
+    const pm = { '臻品母带': 'jymaster', '臻品音质2.0': 'sky', '臻品音质AI': 'jyeffect', '臻品音质': 'jyeffect', 'Hires 无损24-Bit': 'hires', 'Hi-Res': 'hires', 'FLAC': 'flac', '320k': '320k', '192k': '192k', '128k': '128k' };
+    if (avail.includes(target)) return target;
+    const m = pm[target]; if (m && avail.includes(m)) return m;
+    const order = ['jymaster', 'sky', 'jyeffect', 'hires', 'flac24bit', 'master', 'flac', '320k', '192k', '128k'];
+    for (const q of order) if (avail.includes(q)) return q;
+    return avail[0] || '128k';
+}
+
+// -------------------- 酷我加密链接处理 --------------------
+function processKwEncryptedUrl(data, source) {
+    if (source !== 'kw' || !KW_DECRYPT_PROXY.allowEncryptedLossless) {
+        return data?.url || '';
+    }
+    let ekey = null;
+    if (data?.ekey) {
+        ekey = typeof data.ekey === 'string' ? data.ekey.trim() : String(data.ekey).trim();
+    }
+    if (!ekey && data?.url && typeof data.url === 'string') {
+        ekey = simpleGetQueryParam(data.url, 'ekey');
+    }
+    if (!ekey || !KW_DECRYPT_PROXY.url) {
+        return data?.url || '';
+    }
+    const rawUrl = typeof data.url === 'string' ? data.url : String(data.url);
+    try {
+        return `${KW_DECRYPT_PROXY.url}?${KW_DECRYPT_PROXY.urlParamName}=${encodeURIComponent(rawUrl)}&${KW_DECRYPT_PROXY.ekeyParamName}=${encodeURIComponent(ekey)}`;
+    } catch (e) {
+        return rawUrl;
+    }
+}
+
+// -------------------- 网络接口 --------------------
+async function fetchIp() {
+    try {
+        const r = await httpFetch(buildUrl('primary', 'ip'), { timeout: 3000 });
+        if (r.body?.ip) {
+            userIp = r.body.ip;
+            userToken = generateToken(userIp);
+        }
+    } catch (e) {}
+}
+
+// ChKSz 网易云 SVIP 接口（需 apikey）
+async function getWyChkszUrl(id, quality) {
+    const level = CHKSZ_NETEASE_LEVEL_MAP[quality];
+    if (!level) throw new Error('chksz不支持该品质');
+    const url = `https://${URL_CONFIG.domains.chkszNew}${URL_CONFIG.paths.chkszNetease}?id=${id}&level=${level}&apikey=${encodeURIComponent(CHKSZ_CONFIG.apikey)}`;
+    const resp = await httpFetch(url, { headers: { 'User-Agent': 'LX-Music-Mobile' }, timeout: 8000, noAuth: true });
+    if (resp.statusCode !== 200 || resp.body.code !== 200 || !resp.body.data?.url) {
+        throw new Error(`chksz网易失败(${resp.statusCode}): ${resp.body?.msg || '未返回url'}`);
+    }
+    return { url: resp.body.data.url, lyric: null, cover: resp.body.data.picUrl || null };
+}
+
+// ChKSz QQ 音乐接口（需 apikey）
+async function getTxChkszUrl(musicInfo, quality) {
+    const size = CHKSZ_QQ_SIZE_MAP[quality];
+    if (!size) throw new Error('chksz不支持该品质');
+    const mid = musicInfo.songmid || musicInfo.id;
+    if (!mid) throw new Error('缺少QQ mid');
+    const url = `https://${URL_CONFIG.domains.chkszNew}${URL_CONFIG.paths.chkszQQ}?mid=${mid}&size=${size}&type=json&apikey=${encodeURIComponent(CHKSZ_CONFIG.apikey)}`;
+    const resp = await httpFetch(url, { headers: { 'User-Agent': 'LX-Music-Mobile' }, timeout: 8000, noAuth: true });
+    if (resp.statusCode !== 200 || resp.body.code !== 200 || !resp.body.url) {
+        throw new Error(`chksz QQ失败(${resp.statusCode}): ${resp.body?.msg || '未返回url'}`);
+    }
+    return { url: resp.body.url, lyric: resp.body.lrc || null, cover: resp.body.cover || null };
+}
+
+// 网易 GD 接口（hires 用 br=999，失败降级 740）
+async function getWyGDUrl(id, q) {
+    const br = GD_BR_MAP[q] || '320';
+    const url = buildUrl('gdStudio', 'gdApi', `&${URL_CONFIG.gdParams}&types=url&source=netease&id=${id}&br=${br}`);
+    let resp = await httpFetch(url, { headers: { 'User-Agent': 'LX-Music-Mobile' }, timeout: 8000, noAuth: true });
+    // hires 请求失败或无url，降级到标准无损 flac
+    if (q === 'hires' && (resp.statusCode !== 200 || !resp.body.url)) {
+        const fallbackUrl = buildUrl('gdStudio', 'gdApi', `&${URL_CONFIG.gdParams}&types=url&source=netease&id=${id}&br=740`);
+        resp = await httpFetch(fallbackUrl, { headers: { 'User-Agent': 'LX-Music-Mobile' }, timeout: 8000, noAuth: true });
+    }
+    if (resp.statusCode !== 200 || !resp.body.url) {
+        throw new Error(`GD接口状态${resp.statusCode}，未返回音频`);
+    }
+    return { url: resp.body.url, lyric: null, cover: null };
+}
+
+// 自建后端接口（通用）
+async function getUrlFromBackend(source, musicInfo, quality) {
+    const backendSource = SOURCE_MAP[source] || source;
+    const baseUrl = buildUrl('primary', 'backend');
+    const params = {};
+    if (backendSource === 'kg') {
+        const types = musicInfo._types || {};
+        params.source = 'kg';
+        params.quality = quality || '';
+        params.songmid = musicInfo.songmid || musicInfo.id || '';
+        params.albumId = musicInfo.albumId || '';
+        params.mainHash = musicInfo.hash || '';
+        if (types[quality]?.hash) params.hash = types[quality].hash;
+    } else {
+        params.source = backendSource;
+        params.name = musicInfo.name || '';
+        params.singer = musicInfo.singer || '';
+        params.songmid = musicInfo.songmid || musicInfo.id || '';
+        params.interval = musicInfo.interval || '';
+        params.albumName = musicInfo.albumName || musicInfo.album || '';
+        params.quality = quality || '';
+    }
+    const query = Object.keys(params).map(k => `${encodeURIComponent(k)}=${encodeURIComponent(params[k])}`).join('&');
+    const url = `${baseUrl}?${query}`;
+    const resp = await httpFetch(url, { method: 'GET', timeout: 8000 });
+
+    // 403 检测：标记屏蔽，后续不再请求此接口（除非脚本重启）
+    if (resp.statusCode === 403) {
+        backendAggBlocked = true;
+        throw new Error('后端聚合接口返回403，已屏蔽');
+    }
+
+    if (resp.statusCode !== 200) throw new Error(`后端接口状态${resp.statusCode}`);
+    const data = resp.body;
+    if (data.code !== 200 || !data.url) throw new Error(data.msg || '后端无可用链接');
+    const finalUrl = processKwEncryptedUrl(data, backendSource);
+    return { url: finalUrl, lyric: data.lrc || null, cover: data.picture || null };
+}
+
+// -------------------- 核心：获取音乐URL --------------------
+async function fetchMusicUrl(source, musicInfo, quality) {
+    const id = musicInfo.hash ?? musicInfo.songmid ?? musicInfo.id;
+    if (!id) throw new Error('缺少 songId');
+    let actualQuality = mapQuality(quality, MUSIC_QUALITIES[source] || ['128k','320k','flac']);
+
+    if (source === 'kw' && !KW_DECRYPT_PROXY.allowEncryptedLossless) {
+        actualQuality = mapQuality(quality, ['128k','320k','flac']);
+    }
+
+    let result = { url: '', lyric: null, cover: null };
+    let lastError = '';
+    const chkszEnabled = !!(CHKSZ_CONFIG.apikey && CHKSZ_CONFIG.apikey.trim());
+    
+    // --- 网易云音乐 ---
+    // 链路: chksz(有key优先) → 后端聚合(403屏蔽) → GD API
+    if (source === 'wy') {
+        // 1. 优先 chksz SVIP 接口（需启用且有 apikey）
+        if (chkszEnabled && CHKSZ_CONFIG.enableNetease) {
+            try {
+                result = await getWyChkszUrl(id, actualQuality);
+            } catch (e) {
+                lastError = `chksz网易失败: ${e.message}`;
+            }
+        }
+
+        // 2. chksz 失败/未启用 → 后端聚合接口（403屏蔽后跳过）
+        //    后端聚合支持音质与主音质一致: 128k, 320k, flac, hires, atmos, master
+        //    无需转换，直接透传
+        if (!result.url && !backendAggBlocked) {
+            try {
+                result = await getUrlFromBackend('wy', musicInfo, actualQuality);
+            } catch (e) {
+                lastError = `后端聚合失败: ${e.message}`;
+            }
+        }
+
+        // 3. 后端聚合失败/屏蔽 → GD 接口
+        if (!result.url && GD_SUPPORTED_QUALITIES.has(actualQuality)) {
+            try {
+                result = await getWyGDUrl(id, actualQuality);
+            } catch (e) {
+                lastError = `GD接口失败: ${e.message}`;
+            }
+        }
+    } 
+    // --- QQ 音乐 ---
+    else if (source === 'tx') {
+        // 1. 优先 chksz QQ 接口
+        if (chkszEnabled && CHKSZ_CONFIG.enableQQ) {
+            try {
+                result = await getTxChkszUrl(musicInfo, actualQuality);
+            } catch (e) { lastError = `chksz QQ失败: ${e.message}`; }
+        }
+        
+        // 2. 回退：自建后端
+        if (!result.url) {
+            try {
+                result = await getUrlFromBackend(source, musicInfo, actualQuality);
+            } catch (e) { lastError = `后端失败: ${e.message}`; }
+        }
+    }
+    // --- 其他平台：自建后端 ---
+    else {
+        try {
+            result = await getUrlFromBackend(source, musicInfo, actualQuality);
+        } catch (e) { lastError = `后端失败: ${e.message}`; }
+    }
+    
+    extraCache.set(id, { lyric: result.lyric, cover: result.cover });
+
+    // 返回守卫：允许 http（含本地IP，如 127.0.0.1）与 https 链接
+    const trimmedUrl = typeof result.url === 'string' ? result.url.trim() : '';
+    if (typeof result.url !== 'string' || trimmedUrl.length < 1 || !trimmedUrl.match(/^https?:\/\//i)) {
+        throw new Error(lastError || '获取播放链接失败');
+    }
+
+    return trimmedUrl;
+}
+
+// -------------------- 更新检查 --------------------
+async function checkUpdate() {
+    const versionUrls = [
+        buildUrl('primary', 'version') + '?ver=' + encodeURIComponent(SCRIPT_VERSION),
+        buildUrl('fallback', 'version') + '?ver=' + encodeURIComponent(SCRIPT_VERSION)
+    ];
+    try {
+        const resp = await Promise.any(versionUrls.map(u => httpFetch(u, { timeout: 5000 })));
+        if (resp.statusCode === 200 && resp.body && resp.body.update_url) {
+            send(EVENT_NAMES.updateAlert, {
+                log: resp.body.changelog || resp.body.message || `发现新版本 ${resp.body.version || ''}`,
+                updateUrl: resp.body.update_url
+            });
+        }
+    } catch (e) {}
+}
+
+// -------------------- 事件处理 --------------------
+on(EVENT_NAMES.request, async ({ action, source, info }) => {
+    if (!source || !MUSIC_QUALITIES[source]) throw new Error(`不支持的音乐源: ${source}`);
+    
+    if (action === 'musicUrl') {
+        if (!info?.musicInfo || !info.type) throw new Error('参数不完整');
+        return fetchMusicUrl(source, info.musicInfo, info.type);
+    }
+    
+    const id = info?.musicInfo?.hash ?? info?.musicInfo?.songmid ?? info?.musicInfo?.id;
+    const cached = extraCache.get(id);
+    if (action === 'lyric') return cached?.lyric ? { lyric: cached.lyric, tlyric: '' } : null;
+    if (action === 'pic') return cached?.cover || null;
+    throw new Error(`不支持的操作: ${action}`);
+});
+
+// -------------------- 启动 --------------------
+(async () => {
+    deviceId = generateDeviceId();
+    clientHeader = buildClientHeader();
+    userToken = generateToken(null);
+    availablePlatforms = ['wy', 'tx', 'kg', 'kw', 'mg'];
+    const sources = {};
+    availablePlatforms.forEach(p => { sources[p] = { name: PLATFORM_NAMES[p], type: 'music', actions: ['musicUrl', 'lyric', 'pic'], qualitys: MUSIC_QUALITIES[p] }; });
+    send(EVENT_NAMES.inited, { openDevTools: false, status: true, sources });
+    fetchIp();
+    checkUpdate();
+})();
