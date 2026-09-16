@@ -3,13 +3,9 @@
 
 ## 在线导入 - 加速链接
 
-### Huibq
+### 星海
 ```
-https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/huibq/latest.js
-```
-### 长青SVIP
-```
-https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/changqing/latest.js
+https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/xinghai/latest.js
 ```
 ### 念心
 ```
@@ -18,6 +14,14 @@ https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/ni
 ### 全豆要
 ```
 https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/quandouyao/latest.js
+```
+### Huibq
+```
+https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/huibq/latest.js
+```
+### 长青SVIP
+```
+https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/changqing/latest.js
 ```
 ### 忆音
 ```
@@ -31,7 +35,7 @@ https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/xi
 ```
 https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/juhe/latest.js
 ```
-### LX
+### LX独家音源
 ```
 https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/lx/latest.js
 ```
@@ -55,13 +59,9 @@ https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/gr
 
 ## 在线导入 - 原始链接
 
-### Huibq
+### 星海
 ```
-https://raw.githubusercontent.com/tfappstore/lx-music-source/main/huibq/latest.js
-```
-### 长青SVIP
-```
-https://raw.githubusercontent.com/tfappstore/lx-music-source/main/changqing/latest.js
+https://raw.githubusercontent.com/tfappstore/lx-music-source/main/xinghai/latest.js
 ```
 ### 念心
 ```
@@ -70,6 +70,14 @@ https://raw.githubusercontent.com/tfappstore/lx-music-source/main/nianxin/latest
 ### 全豆要
 ```
 https://raw.githubusercontent.com/tfappstore/lx-music-source/main/quandouyao/latest.js
+```
+### Huibq
+```
+https://raw.githubusercontent.com/tfappstore/lx-music-source/main/huibq/latest.js
+```
+### 长青SVIP
+```
+https://raw.githubusercontent.com/tfappstore/lx-music-source/main/changqing/latest.js
 ```
 ### 忆音
 ```
