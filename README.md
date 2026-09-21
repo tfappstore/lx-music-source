@@ -15,6 +15,10 @@ https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/ni
 ```
 https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/quandouyao/latest.js
 ```
+### 裤佬SVIP
+```
+https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/kulao/latest.js
+```
 ### Huibq
 ```
 https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/huibq/latest.js
@@ -70,6 +74,10 @@ https://raw.githubusercontent.com/tfappstore/lx-music-source/main/nianxin/latest
 ### 全豆要
 ```
 https://raw.githubusercontent.com/tfappstore/lx-music-source/main/quandouyao/latest.js
+```
+### 裤佬SVIP
+```
+https://raw.githubusercontent.com/tfappstore/lx-music-source/main/kulao/latest.js
 ```
 ### Huibq
 ```
