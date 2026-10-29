@@ -39,7 +39,7 @@ https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/xi
 ```
 https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/juhe/latest.js
 ```
-### LX独家音源
+### 独家音源V7
 ```
 https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/lx/latest.js
 ```
@@ -99,7 +99,7 @@ https://raw.githubusercontent.com/tfappstore/lx-music-source/main/xiazaiqi/lates
 ```
 https://raw.githubusercontent.com/tfappstore/lx-music-source/main/juhe/latest.js
 ```
-### LX
+### 独家音源V7
 ```
 https://raw.githubusercontent.com/tfappstore/lx-music-source/main/lx/latest.js
 ```
