@@ -5,7 +5,15 @@
 
 ### 星海
 ```
-https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/xinghai/latest.js
+https://zrcdy.dpdns.org/lx/xinghai-music-sourcev2.3.17.js
+```
+### 独家音源V7
+```
+https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/lx/latest.js
+```
+### 裤佬SVIP
+```
+https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/kulao/latest.js
 ```
 ### 念心
 ```
@@ -15,10 +23,7 @@ https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/ni
 ```
 https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/quandouyao/latest.js
 ```
-### 裤佬SVIP
-```
-https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/kulao/latest.js
-```
+
 ### Huibq
 ```
 https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/huibq/latest.js
@@ -39,10 +44,7 @@ https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/xi
 ```
 https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/juhe/latest.js
 ```
-### 独家音源V7
-```
-https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/lx/latest.js
-```
+
 <!-- ### SixYin
 ```
 https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/sixyin/latest.js
@@ -65,7 +67,15 @@ https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/gr
 
 ### 星海
 ```
-https://raw.githubusercontent.com/tfappstore/lx-music-source/main/xinghai/latest.js
+https://zrcdy.dpdns.org/lx/xinghai-music-sourcev2.3.17.js
+```
+### 独家音源V7
+```
+https://raw.githubusercontent.com/tfappstore/lx-music-source/main/lx/latest.js
+```
+### 裤佬SVIP
+```
+https://raw.githubusercontent.com/tfappstore/lx-music-source/main/kulao/latest.js
 ```
 ### 念心
 ```
@@ -75,10 +85,7 @@ https://raw.githubusercontent.com/tfappstore/lx-music-source/main/nianxin/latest
 ```
 https://raw.githubusercontent.com/tfappstore/lx-music-source/main/quandouyao/latest.js
 ```
-### 裤佬SVIP
-```
-https://raw.githubusercontent.com/tfappstore/lx-music-source/main/kulao/latest.js
-```
+
 ### Huibq
 ```
 https://raw.githubusercontent.com/tfappstore/lx-music-source/main/huibq/latest.js
@@ -99,10 +106,7 @@ https://raw.githubusercontent.com/tfappstore/lx-music-source/main/xiazaiqi/lates
 ```
 https://raw.githubusercontent.com/tfappstore/lx-music-source/main/juhe/latest.js
 ```
-### 独家音源V7
-```
-https://raw.githubusercontent.com/tfappstore/lx-music-source/main/lx/latest.js
-```
+
 <!-- ### SixYin
 ```
 https://raw.githubusercontent.com/tfappstore/lx-music-source/main/sixyin/latest.js
