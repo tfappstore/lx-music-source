@@ -1,7 +1,7 @@
 # lx-music-source
 洛雪音乐源，内容源于网络
 
-## 在线导入 - 加速链接
+## 在线导入 - github加速链接
 
 ### 星海
 ```
@@ -23,11 +23,6 @@ https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/ni
 ```
 https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/quandouyao/latest.js
 ```
-
-### Huibq
-```
-https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/huibq/latest.js
-```
 ### 长青SVIP
 ```
 https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/changqing/latest.js
@@ -39,10 +34,6 @@ https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/yi
 ### 音乐下载器
 ```
 https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/xiazaiqi/latest.js
-```
-### JuheApi
-```
-https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/juhe/latest.js
 ```
 
 <!-- ### SixYin
@@ -85,11 +76,6 @@ https://raw.githubusercontent.com/tfappstore/lx-music-source/main/nianxin/latest
 ```
 https://raw.githubusercontent.com/tfappstore/lx-music-source/main/quandouyao/latest.js
 ```
-
-### Huibq
-```
-https://raw.githubusercontent.com/tfappstore/lx-music-source/main/huibq/latest.js
-```
 ### 长青SVIP
 ```
 https://raw.githubusercontent.com/tfappstore/lx-music-source/main/changqing/latest.js
@@ -102,10 +88,7 @@ https://raw.githubusercontent.com/tfappstore/lx-music-source/main/yiyin/latest.j
 ```
 https://raw.githubusercontent.com/tfappstore/lx-music-source/main/xiazaiqi/latest.js
 ```
-### JuheApi
-```
-https://raw.githubusercontent.com/tfappstore/lx-music-source/main/juhe/latest.js
-```
+
 
 <!-- ### SixYin
 ```
