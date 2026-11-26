@@ -7,7 +7,7 @@
 ```
 https://zrcdy.dpdns.org/lx/xinghai-music-sourcev2.3.17.js
 ```
-### 独家音源V7
+### 独家音源
 ```
 https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/lx/latest.js
 ```
@@ -60,7 +60,7 @@ https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/gr
 ```
 https://zrcdy.dpdns.org/lx/xinghai-music-sourcev2.3.17.js
 ```
-### 独家音源V7
+### 独家音源
 ```
 https://raw.githubusercontent.com/tfappstore/lx-music-source/main/lx/latest.js
 ```
