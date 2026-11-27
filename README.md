@@ -5,7 +5,7 @@
 
 ### 星海
 ```
-https://zrcdy.dpdns.org/lx/xinghai-music-sourcev2.3.17.js
+https://zrcdy.dpdns.org/lx/xinghai-music-sourcev3.2.22.js
 ```
 ### 独家音源
 ```
@@ -58,7 +58,7 @@ https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/gr
 
 ### 星海
 ```
-https://zrcdy.dpdns.org/lx/xinghai-music-sourcev2.3.17.js
+https://zrcdy.dpdns.org/lx/xinghai-music-sourcev3.2.22.js
 ```
 ### 独家音源
 ```
