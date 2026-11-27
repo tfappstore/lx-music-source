@@ -7,6 +7,10 @@
 ```
 https://zrcdy.dpdns.org/lx/xinghai-music-sourcev3.2.22.js
 ```
+### 墨澜
+```
+https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/molan/latest.js
+```
 ### 独家音源
 ```
 https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/lx/latest.js
@@ -59,6 +63,10 @@ https://ghproxy.net/raw.githubusercontent.com/tfappstore/lx-music-source/main/gr
 ### 星海
 ```
 https://zrcdy.dpdns.org/lx/xinghai-music-sourcev3.2.22.js
+```
+### 墨澜
+```
+https://raw.githubusercontent.com/tfappstore/lx-music-source/main/molan/latest.js
 ```
 ### 独家音源
 ```
